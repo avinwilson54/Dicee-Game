@@ -1,0 +1,1 @@
+images/dice6.png
